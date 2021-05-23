@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CalculatorFragment">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/pageTitle"
+            style="@style/welcom_text"
+            android:text="SGPA CALCULATOR"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            >
+
+        </TextView>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="50dp"
+            android:orientation="vertical"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SELECT SEMESTER"
+                android:textColor="@color/college_color_dark"
+                >
+
+            </TextView>
+            <Spinner
+                android:id="@+id/semSpn"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                style="@style/spinner_style"
+
+                />
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SELECT BRANCH"
+                android:layout_marginTop="30dp"
+                android:textColor="@color/college_color_dark"
+                >
+
+            </TextView>
+            <Spinner
+                android:id="@+id/branchSpn"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_gravity="center"
+                style="@style/spinner_style"
+                />
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:text="ACADEMIC YEAR(EX :2018)"
+                android:textColor="@color/college_color_dark"
+                />
+
+
+            <EditText
+                android:id="@+id/yearEditTxt"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="20dp"
+                android:inputType="number"
+                android:maxLength="4"
+
+                >
+
+            </EditText>
+
+        </LinearLayout>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Next"
+            android:id="@+id/nextBtn"
+            android:background="@drawable/button_bg"
+            android:textColor="@color/white"
+            android:layout_margin="10dp"
+            >
+
+        </Button>
+    </LinearLayout>
+</FrameLayout>

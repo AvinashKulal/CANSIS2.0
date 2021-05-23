@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/website"  android:icon="@drawable/website" tools:ignore="MenuTitle" />
+
+    <item android:id="@+id/instagram"  android:icon="@drawable/instagram" tools:ignore="MenuTitle" />
+    <item android:id="@+id/youtube"  tools:ignore="MenuTitle" android:icon="@drawable/youtube" />
+     <item android:id="@+id/facebook" tools:ignore="MenuTitle" android:icon="@drawable/facebook"/>
+    <item android:id="@+id/twitter" tools:ignore="MenuTitle" android:icon="@drawable/twitter"></item>
+
+
+</menu>

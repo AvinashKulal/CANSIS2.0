@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+   android:orientation="horizontal"
+    android:padding="5dp"
+    android:layout_margin="5dp"
+    android:weightSum="4"
+
+    android:background="@drawable/texview_border"
+    android:layout_height="match_parent">
+<EditText
+    android:hint="mark"
+    android:id="@+id/mark"
+    android:layout_width="wrap_content"
+    android:layout_weight="1"
+    android:layout_height="50dp">
+
+</EditText>
+    <androidx.appcompat.widget.AppCompatSpinner
+        android:id="@+id/creditpoint"
+
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="50dp">
+
+
+    </androidx.appcompat.widget.AppCompatSpinner>
+
+    <androidx.appcompat.widget.AppCompatSpinner
+
+        android:id="@+id/typeofsubject"
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="50dp">
+
+
+    </androidx.appcompat.widget.AppCompatSpinner>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+
+        android:padding="9dp"
+        android:id="@+id/imageDelete"
+        android:src="@drawable/delete"
+        android:layout_height="50dp">
+
+    </ImageView>
+</LinearLayout>

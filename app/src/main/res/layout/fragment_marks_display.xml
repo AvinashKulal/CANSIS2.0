@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MarksDisplayFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/top_panel"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/backgrund_shape"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/marks">
+
+
+            </ImageView>
+
+            <TextView
+                android:id="@+id/profile_text"
+                style="@style/GreenText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="MARKS">
+
+            </TextView>
+        </LinearLayout>
+
+
+
+            <TextView
+                android:id="@+id/semCieText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:text="| SEMESTER - 1  and CIE |"
+                android:textSize="20dp"
+                android:textStyle="bold"
+              android:textAlignment="center"
+                android:layout_below="@id/top_panel"
+                android:layout_margin="5dp"
+                />
+        <androidx.recyclerview.widget.RecyclerView
+
+            android:id="@+id/marks_recyclerview"
+            android:layout_width="match_parent"
+
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:layout_below="@id/semCieText"
+
+
+            >
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+
+
+    </RelativeLayout>
+
+</FrameLayout>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:id="@+id/popup_linear_layout"
+    android:background="@drawable/bottomsheetbg"
+
+    android:layout_height="wrap_content">
+    <TextView android:layout_width="match_parent"
+        android:layout_margin="10dp"
+            android:layout_height="wrap_content"
+        android:text="WEEK NAME"
+        android:id="@+id/day_name"
+        android:textAlignment="center"
+        style="@style/welcom_text"
+            />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_gravity="center"
+        android:id="@+id/day_icon"
+        android:src="@drawable/monday"
+        android:layout_marginBottom="10dp"
+        android:layout_height="wrap_content">
+
+    </ImageView>
+    <LinearLayout
+        android:background="@color/cardview_shadow_end_color"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="@color/college_color_dark"
+                android:textStyle="bold"
+                android:layout_width="120dp"
+                android:textAlignment="center"
+                android:text="WEB PROGRAM"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:textColor="@color/college_color_dark"
+                android:textStyle="bold"
+                android:layout_width="130dp"
+                android:textAlignment="center"
+                android:text="CLOUD COMP"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:textColor="@color/college_color_dark"
+                android:textStyle="bold"
+                android:layout_width="120dp"
+                android:textAlignment="center"
+                android:text="PROJECT 1"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="@color/college_color_dark"
+                android:textStyle="bold"
+                android:layout_width="120dp"
+                android:textAlignment="center"
+                android:text="MACHINE LEARNING LAB"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:textColor="@color/college_color_dark"
+                android:textStyle="bold"
+                android:layout_width="130dp"
+                android:textAlignment="center"
+                android:text="STORAGE AREA NETWORK"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:textColor="@color/college_color_dark"
+                android:textStyle="bold"
+                android:layout_width="120dp"
+                android:textAlignment="center"
+                android:text="PROJECT 2"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="@color/college_color_dark"
+                android:textStyle="bold"
+                android:layout_width="120dp"
+                android:textAlignment="center"
+                android:text="WEB PROGRAM"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:textColor="@color/college_color_dark"
+                android:textStyle="bold"
+                android:layout_width="130dp"
+                android:textAlignment="center"
+                android:text="MACHINE LERANING"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:textColor="@color/college_color_dark"
+                android:textStyle="bold"
+                android:layout_width="120dp"
+                android:textAlignment="center"
+                android:text="WEB LAB"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="@color/college_color_dark"
+                android:textStyle="bold"
+                android:layout_width="120dp"
+                android:textAlignment="center"
+                android:text="SAN"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:textColor="@color/college_color_dark"
+                android:textStyle="bold"
+                android:layout_width="130dp"
+                android:textAlignment="center"
+                android:text="CLOUD COMP"
+                android:layout_height="wrap_content">
+
+            </TextView>
+            <TextView
+                android:textColor="@color/college_color_dark"
+                android:textStyle="bold"
+                android:layout_width="120dp"
+                android:textAlignment="center"
+                android:text="PROJECT 1"
+                android:layout_height="wrap_content">
+
+            </TextView>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

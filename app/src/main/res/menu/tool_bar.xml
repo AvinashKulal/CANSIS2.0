@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/home" android:title="HOME"
+        android:icon="@drawable/home"
+        app:showAsAction="always"/>
+    <item android:id="@+id/contactus" android:title="CONTACT US"
+        android:icon="@drawable/phone"
+        app:showAsAction="always"/>
+    <item android:id="@+id/signout" android:title="SIGN OUT"
+        android:icon="@drawable/logoutbutton"
+        app:showAsAction="always"/>
+
+
+</menu>

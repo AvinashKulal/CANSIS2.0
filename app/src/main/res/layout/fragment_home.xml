@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context=".HomeFragment">
+
+<ScrollView
+    android:id="@+id/homescrollview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+<include layout="@layout/name_board" android:id="@+id/name_board"/>
+        <RelativeLayout
+            android:id="@+id/imageLayout"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_below="@id/name_board"
+            android:layout_marginTop="10dp"
+            android:elevation="20dp">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+
+                app:cardCornerRadius="8dp">
+
+
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/canarimage">
+
+                    </ImageView>
+
+
+
+                <!--<ViewFlipper
+                    android:id="@+id/v_flipper"
+                    android:visibility="invisible"
+                    android:layout_width="match_parent"
+                    android:layout_height="280dp"
+                    >
+                </ViewFlipper>
+        -->
+            </androidx.cardview.widget.CardView>
+
+
+        </RelativeLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+          android:layout_margin="20dp"
+
+            android:id="@+id/dashboard"
+            android:layout_below="@id/imageLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </androidx.recyclerview.widget.RecyclerView>
+
+
+    </RelativeLayout>
+
+</ScrollView>
+</FrameLayout>

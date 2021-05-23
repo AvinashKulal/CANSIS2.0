@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">CANSIS 2.0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="visionText">To be recognized as a center of knowledge dissemination in Computer Science and Engineering by imparting value-added education to transform budding minds into competent computer professionals.</string>
+
+    <string name="list">
+        <li>Provide a learning environment enriched with ethics that helps in enhancing problem solving skills of students and, cater to the needs of the society and industry.</li>\n\n
+        <li>Expose the students to cutting-edge technologies and state-of-the-art tools in the many areas of Computer Science and Engineering.</li>\n\n
+        <li>Create opportunities for all round development of students through co-curricular and extra-curricular activities.</li>\n\n
+        <li>Promote research, innovation and development activities among staff and students.</li>
+
+    </string>
+
+
+    <string name="aboutcollege1">
+        <li> Established in the year 2001 as a new millennium project of CHSA, Canara Engineering College (CEC) has evolved as one of the premier Engineering institutes in the region and attracts students from diverse backgrounds across the country.</li>\n\n
+
+        <li>The campus has a sprawling area of 26 acres, set in a picturesque locale and has aesthetically designed eco-friendly buildings amidst the green belt within the vicinity of Mangalore City. Academic discipline, student centered learning opportunities, hard work and mainly team work by upholding the philosophy of our founder, Late Sri Ammembal Subba Rao Pai, in imparting modern education blended with ancient cultural values, remain the key of success in the path of progress towards perfection.</li>\n\n
+
+        <li>The institution is completely self-financed and does not receive grants from any source. At present the total intake is 480 in UG Courses. 40% of the seats are allotted through the CET cell, 30% seats are filled under ‘Konkani’ and General Merit by KRLMPCA quota and the remaining 30% under NRI/Management quota. The total intake for PG courses is 18.</li>\n\n
+
+        <li>The main objective of the college is to provide excellence in technical education based on knowledge, ability and self-confidence, creative thinking based on sound logic and fundamentals. To develop an all-round personality of the student, they are encouraged to actively take part in sports, games and other activities. All round human resource development is the corner stone and the guiding principle of this Institution. Good placement infrastructure assists students for placement. Students are equipped with industry experience by undergoing internship every semester.</li>\n\n
+    </string>
+    <string name="aboutcollege2">
+        <li>The name Canara High School Association has a long history of educating generations from the past 128 years. Canara High School Association founded by the great visionary Ammembal Subba Rao Pai (19-11-1852 – 25-07-1909), way back in 1891, during pre independence period, now has over a dozen educational institutions, imparting quality education from Nursery level to Graduation, for over 13000 young minds from Coastal Karnataka and surrounding regions.</li>\n\n
+        <li>The Association aims at imparting not just modern education but also moral values that is blended with cultural values. In 1891, Ammembal Subba Rao Pai, the founder of CANARA BANK, a great social reformer and philanthropist, from his concern for social up-liftment, envisioned and started the Canara High School, Mangalore.</li>\n\n
+        <li>In 1894, Canara Girls High School was started with an objective of encouraging girls’ education. He had taken a revolutionary step considering the prevalent values and attitude of the people towards girls’ education during those days. Canara Girls High School is now in its fruitful 125th year of service.</li>\n\n
+        <li>CANARA firmly believes that only EDUCATION makes a person, a responsible citizen. ‘Quality education at affordable cost for all’ has remained a guiding principle and even after 127 years, the tradition continues with a deep sense of satisfaction, spreading millions of alumni in every nook and corner of this world. Catering to the needy, CANARA has always lent a helping hand in educating financially incapable children. Mid day meals in Schools, scholarships and every possible assistance is taken care of at CANARA for the cause of education.</li>\n\n
+    </string>
+
+
+    <!--ELECTRONICS  and COMMUNICATION ENGINEERING-->
+
+    <string name="ecvision">
+       The Department of Electronics and Communication Engineering strives to be a centre of repute by imparting quality education to produce globally competent graduates with human values.
+    </string>
+
+    <string name="ecmission">
+        <li>Create conducive environment for overall development of students.</li>
+        <li>Equip the students with technical skills to bridge the gap between academia and industry.</li>
+     </string>
+
+    <string name="ecprofile">
+
+        <p>Electronics and Communication  engineering broadly deals with systems related to acquiring,communicating,manipulating and analyzing information.To put it in simple words EC covers wide area of applications from small sensor to huge satellites, simple calculators to super computers, microwave ovens to missiles, mobile phones to medical electronics, automation in industries to electronics in automobiles etc. EC has achieved fastest technology growth ever among all domains of engineering and has registered its spread in almost all areas of application. Presence of EC has become ubiquitous and has undoubtedly become one of the basic branches in Engineering. Because of the nature of curriculum that EC Engineers study, they have plenty of career opportunities not only in the core area of Electronics and Communication but also in allied areas like Instrumentation, Computer Engineering, Aeronautical Engineering.Mechatronics, Bio-medical etc. The Faculty members are Highly Experienced and dedicated in mouldings the students to cope with competitive career, higher studies and research activities Faculty members have published many international journal papers, attended many workshops and FDP. Two Professors with Doctoral Degree. Two Associate professors pursuing doctoral degree, Four Assistant Professors pursuing doctoral degree. Eighteen Assistant professors with PG Degree. The department has excellent infrastructure with state-of-the-art equipment and software tools.8 dedicated technical staff for laboratory experiment conduction.7 laboratories including research and industrial Project lab. The department has a close interaction with the alumni and is continuously using their inputs for betterment of the curriculum and research facilities to meet the industrial needs. Keeping an eye on the need of the industry and the society department of Electronics and communication Engineering has been conducting numerous core technical workshops for both students and faculty members to meet the vision and mission of the department and eventually of the college. The department is committed to work toward quality education through innovative teaching and learning processes  state of the art facilities and conducive academic ambiance. Some of the best practices at department include</p>
+        <li>Student centric teaching and learning process</li>
+        <li>Extensive use of educational software and other multimedia tools for efficient teaching and learning</li>
+        <li>Various value addition programs along with regular academics to improve skill level of students.</li>
+        <li>Encouragement for participation in technical events and competitions.</li>
+        <li>Expert Lectures by Industrial personnel.</li>
+        <li>Industry defined projects for final year students.</li>
+        <li>Industry defined projects for final year students.</li>
+        <li>Regular industrial visits for field exposure.</li>
+        <li>Internship programs for students during semester breaks.</li>
+        <li>Regular workshops on Communication Skills and Personality Development.</li>
+        <li>Mock Interview sessions conducted by Industry and Academic experts.</li>
+        <li>Empower students to develop skills for lifelong learning.</li>
+        <li>Continuously updating students with available career options and market trends.</li>
+        <li>Assist students to develop and implement job search strategies.</li>
+        <li>Upgrading students skill sets to meet expectations of industries.</li>
+        <li>Assist students to develop academic and career interest,and short and long-term goals through individual counseling.</li>
+    </string>
+
+
+    <string name="ecpso">
+
+        <li>Ability to pecify, design, build and test analog, digital, embedded systems and to apply programming skills in the relevant fields.</li>
+        <li>Ability to understand and apply modern wired and wireless analog and digital communication systems for existing problems.</li>
+    </string>
+
+
+    <string name="ecpeo">
+
+    <li>Succeed in their professional career.</li>
+        <li>Apply the knowledge of Electronics and Communication to address technological problems of industry and society.</li>
+        <li>Demonstrate leadership qualities and exhibit professional standards.</li>
+    </string>
+
+
+    <!--COMPUTER SCIENCE AND ENGINEERING-->
+
+    <string name="csevision">
+        To be recognized as a center of knowledge dissemination in Computer Science and Engineering by imparting value-added education to transform budding minds into competent computer professionals.
+    </string>
+
+    <string name="csemission">
+    <li>Provide a learning environment enriched with ethics that helps in enhancing problem solving skills of students and, cater to the needs of the society and industry.</li>\n\n
+    <li>Expose the students to cutting-edge technologies and state-of-the-art tools in the many areas of Computer Science and Engineering.</li>\n\n
+    <li>Create opportunities for all round development of students through co-curricular and extra-curricular activities.</li>\n\n
+    <li>Promote research, innovation and development activities among staff and students.</li>
+    </string>
+
+    <string name="cseprofile">
+        <li>The department was started in the year 2001 to offer under graduate degree programme i.e. Bachelor of Engineering (BE) in Computer Science and Engineering (CS and E). The department also offers post graduate programme in engineering i.e. MTech in Computer Science Engineering (CS and E) since 2011. The department has dedicated, qualified and experienced faculty members to guide the students in academics. The faculty members are actively involved in teaching, product development and research. The faculty members have published number of research and review papers/articles in referred International journals and reputed International conferences which are archived at IEEE/ACM/Springer and other renowned digital libraries.</li>\n\n
+        <li>The department frequently organizes training programmes for the faculty, technical staff and students. The faculty frequently attends staff development programmes (SDP/FDP/Seminar) to update themselves in technological advancements and conferences to present research findings.The department aims at building the students’ career by placing special emphasis on all-round development through continuous interaction with Industry. Interactive sessions with experts from academia, research laboratories and industry are constantly held so as to enable students to gain knowledge on diverse and emerging fields. The campus placement has been scaling higher and higher peaks right from its inception with multinational companies recruiting students in large numbers. To increase the opportunity of placements to students, the department conducts soft skills training programmes, technical skill development activities and initiatives on self-learning (Spoken Tutorial programmes by IIT Bombay).</li>\n\n
+        <li>The department promotes extracurricular activities under the umbrella of the students’ association and SPECS. The department brings out Annual technical magazine and newsletter which provides an opportunity for the students and staff to publish innovative ideas, programming tips and articles on current trends in computing and technology. The students’association and National Service Scheme (NSS) wing frequently conducts various programmes to strengthen leadership skills, teamwork and communication; and awareness on protection of environment and social responsibilities.</li>\
+
+    </string>
+
+
+    <string name="csepso">
+
+        <li><b> Computer System Design:</b> Ability to apply the knowledge of computer system design principles in building system software and hardware components.</li>\n\n
+        <li><b>Computer Communication and Internet Applications:</b> Ability to apply knowledge of layered network models, their protocols and technologies in building network and Internet based applications.</li>\n\n
+        <li><b>Solve Computational Problems:</b> Apply the theoretical foundations of computer science in modeling and developing solutions to the real world problems.</li>\n\n
+        <li><b>Software System Design and Development:</b> Design and develop the application software systems that meet the automation needs of society and industry.</li>\n\n
+
+    </string>
+
+
+    <string name="csepo">
+
+        <li><b>Engineering knowledge:</b> Apply the knowledge of mathematics, science, engineering fundamentals and an engineering specialization to the solution of complex engineering problems.</li>\n\n
+<li><b>Problem analysis:</b> Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences and engineering sciences.</li>\n\n
+<li><b>Design/development of solutions:</b> Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal and environmental considerations.</li>\n\n
+<li><b>Conduct investigations of complex problems:</b> Use research-based knowledge and research methods, including design of experiments, analysis and interpretation of data and synthesis of the information to provide valid conclusions.</li>\n\n
+<li><b>Modern tool usage:</b> Select/Create and apply appropriate techniques, resources and modern engineering and IT tools, including prediction and modelling to complex engineering activities, taking comprehensive cognizance of their limitations.</li>\n\n
+<li><b>The engineer and society:</b> Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.</li>\n\n
+<li><b>Environment and Sustainability: </b>Understand the impact of the professional engineering solutions in societal and environmental contexts and demonstrate the knowledge of and need for sustainable development.</li>\n\n
+<li><b>Ethics:</b> Apply ethical principles and commit to professional ethics and responsibilities and norms of the relevant scientific and/or engineering practices.</li>\n\n
+<li><b>Individual and team work:</b> Function effectively as an individual and as a member or leader in diverse teams and in multidisciplinary settings.</li>\n\n
+<li><b>Communication:</b> Communicate effectively on complex engineering activities with the engineering community and with the society-at-large, such as being able to comprehend and write effective reports and design documentation, make effective presentations and give and receive clear instructions.</li>\n\n
+<li><b>Project management and finance:</b> Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work as a member and leader in a team to manage projects and in multidisciplinary environments.</li>\n\n
+<li><b>Life-long learning:</b> Recognize the need for and above have the preparation and ability to engage in independent and life-long learning in the broadcast context of technological changes.</li>
+
+
+
+    </string>
+    <string name="csepeo">
+        <li>Graduates will work productively as computer science engineers exhibiting ethical qualities and leadership roles in multi-disciplinary teams.</li>\n\n
+<li>Graduates will adapt to the changing technologies, tools and societal requirements.</li>\n\n
+<li>Graduates will design and deploy software that meets the needs of individuals and the industries</li>\n\n
+<li>Graduates will take up higher education and/or be associated with the field so that they can keep themselves abreast of Research and Development</li>
+
+
+    </string>
+
+
+    <!--ELECTRICAL AND ELECTRONIC ENGINEERING-->
+
+    <string name="eevision">
+        To be a centre of excellence in imparting technical knowledge in Electrical and Electronics field with professional ethics and human values.
+         </string>
+
+    <string name="eemission">
+        <li>To provide an excellent and comprehensive undergraduate education in the field of electrical and electronics engineering to meet the Industrial and Societal demands.</li>
+        <li>To improve the knowledge, attitude, practical capabilities of the students.</li>
+        <li>To build team ethics, leadership qualities and to cater to the overall development of the students in professional and research oriented fields.</li>
+     </string>
+
+    <string name="eeprofile">
+      <li>The Department of Electrical and Electronics Engineering was established in the year 2004. The department has a well motivated and dedicated qualified faculty. The department has a very active ELECTRICAL AND ELECTRONICS ENGINEERS ASSOCIATION which provides a platform to students to showcase their ability in the curricular and extra-curricular activities. The department has IEEE, SESI and ISTE professional bodies which arrange technical talks, workshops, conferences and project exhibitions. Industry-Institute Partnership Cell arranges the internship facilities to the students and also conducts the industrial tours to bridge the gap between industry and institute.</li>
+        <li>We encourage the students to carryout mini projects and present papers at various conferences through our R and D Innovation cell. This cell also helps the faculty to carry out research activities. We have a very efficient Teacher Guardian cell to provide emotional and technical support to the students. The Internal training and Placement cell in the department acts in tandem to increase the employability of the students.</li>
+        <li>The department has well equipped Power Electronics, Control systems, Microcontrollers, Circuit Simulation and Measurements, D.C. Machine and Synchronous Machines, Transformers and Induction Machines, Relay and H.V. and Power System Simulation Laboratories, spacious and well ventilated class rooms with state of the art and computing facilities. Apart from the central library in the college, the department has its own library with standard books for the reference of students and staff.</li>
+
+    </string>
+
+
+    <string name="eepso">
+
+        <li><b> Computer System Design:</b> Ability to apply the knowledge of computer system design principles in building system software and hardware components.</li>\n\n
+        <li><b>Computer Communication and Internet Applications:</b> Ability to apply knowledge of layered network models, their protocols and technologies in building network and Internet based applications.</li>\n\n
+        <li><b>Solve Computational Problems:</b> Apply the theoretical foundations of computer science in modeling and developing solutions to the real world problems.</li>\n\n
+        <li><b>Software System Design and Development:</b> Design and develop the application software systems that meet the automation needs of society and industry.</li>\n\n
+
+    </string>
+
+    <string name="eepeo">
+        <li>To produce competent graduates with adequate knowledge in the field of Electrical and Electronics Engineering so that they can serve government agencies and private industries and also be entrepreneurs.</li>
+        <li>To elevate the knowledge of our graduates to take up post- graduate studies in the fields of Electrical, Electronics, Computer Science and Management studies.</li>
+        <li>To inculcate in our graduates an inclination for lifelong learning contributing to personal growth and societal improvement.</li>
+        <li>To build the culture of team work and effective communication ability in our graduates to solve complex engineering problems and other challenging issues.</li>
+        <li>To produce engineers who can design and develop effective products those are beneficial to society and act with honesty, wisdom, courage and compassion.</li>
+    </string>
+
+
+    <!--INFORMATION SCIENCE AND ENGINEERING-->
+
+    <string name="isevision">
+        The Department of Information Science and Engineering strives to be a centre of learning in the field of Information Technology to produce globally competent engineers catering to the needs of the industry and society.
+         </string>
+
+
+    <string name="isemission">
+    <li>Impart technical skills in the field of Information Science and Engineering.</li>
+    <li>Train and transform students to become technological thinkers and facilitate a quality venture which meets the industrial and societal needs.</li>
+        <li>Encourage students to become well-rounded in their professional competencies.</li>
+    </string>
+
+    <string name="iseprofile">
+    <li>The role of IT has evolved from supporting business to transforming them. In order to sustain in this transformation, one has to identify the market needs, introduce excellent academic processes and bench mark the outcomes as per the defined standard.</li>
+        <li>The Information Science and Engineering Department focuses on all-round development encourages a vibrant interest in academic as well as in extra curricular activities. The Department has fully equipped laboratories and well qualified and experienced staff. The Department regularly arranges seminars, workshops from Industry Experts for students as well as staff and also organizes industry visits for students. The Department offers add-on courses to cope up with the latest trends in technology. The track record of result is excellent.
+        </li>
+    </string>
+
+
+    <string name="isepso">
+    <li>An ability to understand, analyze and impart the basic knowledge of Information Science and Engineering.</li>
+        <li>An ability to apply the programming, designing, and problem solving techniques in building/simulating the applications, solving the problems and guiding the innovative career paths to become an IT Engineer.</li>
+
+
+    </string>
+
+    <string name="isepeo">
+        <li>Graduates will succeed in the field of Information Science and Engineering, professional career and higher studies.</li>
+        <li>Graduates will analyze the requirements of the software industries and provide novel engineering designs and efficient solutions with legal and ethical responsibility.</li>
+        <li>Graduates will adapt to emerging technologies, work in multidisciplinary teams with effective communication skills and leadership qualities.</li>
+
+          </string>
+
+
+    <!--MECHANICAL ENGINEERING-->
+
+    <string name="mevision">
+To impart state of the art quality Mechanical Engineering education and create competent professionals.         </string>
+
+
+    <string name="memission">
+    <li>Imparting engineering education through experienced faculty, good infrastructure and systematic teaching learning process.</li>
+    <li>Providing an environment for the application of gained knowledge to design and develop products for society, industries and research activities.</li>
+        <li>Promoting high standards of professional ethics and accountability.</li>
+    </string>
+
+    <string name="meprofile">
+    <li>Mechanical Engineering branch at Canara Engineering College was started in the year 2004 with an intake of 60, presently increased to 120. Mechanical Engineering is one of the broadest engineering disciplines.</li>
+        <li>The curriculum prepares a student for a wide variety of technical and professional areas having their roots in Mechanical Engineering - areas as diverse as Aeronautics, Aerospace, Power generation, Energy conversion and conservation, Transportation, Manufacturing, Product Design, Robotics and controls and others.
+        </li>
+    </string>
+
+
+    <string name="mepso">
+    <li>Capability to assess and solve mechanical and interdisciplinary engineering problems to meet needs of the society.</li>
+        <li>Possesses adequate interpersonal skills to solve managerial and technical issues.</li>
+
+
+    </string>
+
+    <string name="mepeo">
+        <li>Be capable of applying relevant skills of basic sciences, engineering design and modeling, manufacturing, management etc. learnt in the programme for their professional career.</li>
+        <li>Strengthen themselves, using the infrastructure at their disposal, to get placed in the areas of their interest, enter into higher education and take up research assignments so as to meet the challenges of engineering world.</li>
+        <li>Be able to develop communication skills, professional personality and ethical values that will mould them into good human beings, responsible citizens and competent professionals.</li>
+
+    </string>
+
+
+</resources>
