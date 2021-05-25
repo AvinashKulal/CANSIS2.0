@@ -1,34 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
 
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context=".ProgramOutcomesFragment">
+    tools:context=".ProgramOutcomesFragment"
+
+    >
 
     <!-- TODO: Update blank fragment layout -->
     <LinearLayout
         android:layout_width="match_parent"
         android:orientation="vertical"
-        android:layout_height="wrap_content">
-        <TextView
-            android:layout_width="match_parent"
-            android:text="ABOUT DEPARTMENT"
-            android:layout_marginTop="10dp"
-            style="@style/welcom_text"
-            android:gravity="center"
-            android:layout_height="wrap_content"/>
+        android:layout_height="match_parent"
 
-
+        >
 
 
         <LinearLayout
             android:layout_margin="10dp"
             android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            >
 
+            <requestFocus />
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
                 app:cardBackgroundColor="@color/college_color_dark"
@@ -167,8 +166,9 @@
 
             android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
 
+            >
             <androidx.cardview.widget.CardView
                 android:layout_width="match_parent"
                 app:cardBackgroundColor="@color/college_color_dark"
@@ -228,4 +228,4 @@
         </LinearLayout>
 
     </LinearLayout>
-</FrameLayout>
+</ScrollView>

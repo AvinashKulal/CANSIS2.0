@@ -76,6 +76,9 @@ public boolean userLogin(String name,String phone,String address,String email,St
     SharedPreferences sharedPreferences = mCtx.getSharedPreferences(SHARED_PREF_NAME,Context.MODE_PRIVATE);
     SharedPreferences.Editor editor = sharedPreferences.edit();
 
+    System.out.println(
+            name+" "+phone+" "+address+" "+email+" "+mothers_name+" "+branch+" "+year+" "+image
+    );
 
     editor.putString(KEY_USER_PHONE,phone);
     editor.putString(KEY_USER_BRANCH,branch);
@@ -145,6 +148,14 @@ return true;
         String typeofuser = preferences.getString(KEY_TYPE_USER,null);
         return typeofuser;
     }
+
+    public void setTypeOfuser(String type) {
+        SharedPreferences sharedPreferences = mCtx.getSharedPreferences(SHARED_PREF_NAME,Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedPreferences.edit();
+        editor.putString(KEY_TYPE_USER,type);
+        editor.apply();
+    }
+
 
    public List<String> getStudentDetails(){
 

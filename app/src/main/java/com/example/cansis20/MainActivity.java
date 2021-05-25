@@ -122,7 +122,12 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         if(item.getItemId()==R.id.home){
-            startActivity(new Intent(this,MainActivity.class));
+
+            FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
+            fragmentTransaction.replace(R.id.frame_area, homeFragment);
+            fragmentTransaction.commit();
+
+
         }
         else if(item.getItemId()==R.id.contactus){
             startActivity(new Intent(this,ContactUs.class));

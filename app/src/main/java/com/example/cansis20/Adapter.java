@@ -109,6 +109,11 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
                                 chatbotFragment = new ChatbotFragment();
                                 activity.getSupportFragmentManager().beginTransaction().replace(R.id.frame_area, chatbotFragment).addToBackStack(null).commit();
                                 break;
+
+                            case 5:
+                                marksFragment=new MarksFragment();
+                                activity.getSupportFragmentManager().beginTransaction().replace(R.id.frame_area, marksFragment).addToBackStack(null).commit();
+                                break;
                         }
 
                     }else {
@@ -176,9 +181,6 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
                                 break;
 
                             default:
-                                // FragmentTransaction fragmentTransaction =
-                                // fragmentTransaction.replace(R.id.frame_area, timeTableFragment);
-                                //   fragmentTransaction.commit();
                                 Toast.makeText(view.getContext(), "thisis test " + getAdapterPosition(), Toast.LENGTH_SHORT).show();
 
                         }
@@ -190,6 +192,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
            });
         }
     }
+
 
 
 

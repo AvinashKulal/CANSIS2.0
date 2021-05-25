@@ -8,7 +8,7 @@ public class Constants {
     public static final String URL_NOTIFICATION = ROOT_URL+"notification.php";
     public  static final String URL_MARKS = ROOT_URL+"marks.php";
     public static final String URL_SUBJECT_CREDIT = ROOT_URL+"subjectCreditScore.php";
-
+    public static final String URL_PARENT_LOGIN = ROOT_URL+"parentLogin.php";
 
 
 
